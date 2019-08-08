@@ -13,7 +13,7 @@ using AutoUpdaterDotNET;
 
 namespace Restart_Servises_and_Disk
 {
-    public partial class Form1 : DevExpress.XtraEditors.XtraForm
+    public partial class Form1 : XtraForm
     {
         public Form1()
         {
@@ -30,7 +30,7 @@ namespace Restart_Servises_and_Disk
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            AutoUpdater.Start("https://github.com/mkmen100500/Restart-Service-and-Disk/blob/master/Updater.xml");
+            AutoUpdater.Start("https://raw.githubusercontent.com/mkmen100500/Restart-SaD/master/Updater.xml");
             timer1.Start();
             restartDisk_Click(sender, e);
         }
