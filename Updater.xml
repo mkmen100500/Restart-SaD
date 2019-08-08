@@ -2,7 +2,7 @@
 <item>
     <version>1.4.0.0</version>
     <url>https://github.com/mkmen100500/Restart-Service-and-Disk/blob/master/Update/EXEv12.zip</url>
-    <changelog>https://github.com/mkmen100500/Restart-Service-and-Disk/blob/master/changelog</changelog>
+    <changelog>https://raw.githubusercontent.com/mkmen100500/Restart-SaD/master/changelog</changelog>
     <mandatory>false</mandatory>
     <checksum algorithm="MD5">Update file Checksum</checksum>
 </item>
