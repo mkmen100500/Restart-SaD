@@ -1,0 +1,54 @@
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\Restart Servises and Disk.exe
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\Restart Servises and Disk.pdb
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.Data.v18.2.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.Utils.v18.2.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.XtraBars.v18.2.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.Data.v18.2.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.Utils.v18.2.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.XtraBars.v18.2.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Debug\Restart Servises and Disk.csprojResolveAssemblyReference.cache
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Debug\Restart_Servises_and_Disk.Form1.resources
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Debug\Restart_Servises_and_Disk.Properties.Resources.resources
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Debug\Restart Servises and Disk.csproj.GenerateResource.Cache
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Debug\Restart Servises and Disk.exe
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Debug\Restart Servises and Disk.pdb
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Debug\Interop.IWshRuntimeLibrary.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Debug\Restart Servises and Disk.csproj.ResolveComReference.cache
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Debug\Restart Servises and Disk.exe.licenses

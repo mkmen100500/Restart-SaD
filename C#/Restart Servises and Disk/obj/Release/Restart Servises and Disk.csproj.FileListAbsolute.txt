@@ -1,0 +1,108 @@
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\Restart Servises and Disk.exe
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\Restart Servises and Disk.pdb
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.BonusSkins.v18.2.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.Data.v18.2.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.Printing.v18.2.Core.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.Sparkline.v18.2.Core.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.Utils.v18.2.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.XtraBars.v18.2.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.XtraEditors.v18.2.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.Pdf.v18.2.Core.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.Data.v18.2.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.Utils.v18.2.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.Sparkline.v18.2.Core.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.XtraBars.v18.2.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.XtraEditors.v18.2.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.Printing.v18.2.Core.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\DevExpress.Pdf.v18.2.Core.xml
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\de\DevExpress.Data.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\es\DevExpress.Data.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ja\DevExpress.Data.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ru\DevExpress.Data.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\de\DevExpress.Utils.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\es\DevExpress.Utils.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ja\DevExpress.Utils.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ru\DevExpress.Utils.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\de\DevExpress.XtraBars.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\es\DevExpress.XtraBars.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ja\DevExpress.XtraBars.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ru\DevExpress.XtraBars.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\de\DevExpress.XtraEditors.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\es\DevExpress.XtraEditors.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ja\DevExpress.XtraEditors.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ru\DevExpress.XtraEditors.v18.2.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\de\DevExpress.Printing.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\es\DevExpress.Printing.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ja\DevExpress.Printing.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ru\DevExpress.Printing.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\de\DevExpress.Pdf.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\es\DevExpress.Pdf.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\bin\Release\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Release\Restart_Servises_and_Disk.Form1.resources
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Release\Restart_Servises_and_Disk.Properties.Resources.resources
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Release\Restart Servises and Disk.csproj.GenerateResource.Cache
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Release\Restart Servises and Disk.exe
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Release\Restart Servises and Disk.pdb
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Release\Interop.IWshRuntimeLibrary.dll
+M:\projects VS\devexpress\Restart Servises and Disk\Restart Servises and Disk\obj\Release\Restart Servises and Disk.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\obj\Release\Restart Servises and Disk.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\obj\Release\Restart Servises and Disk.exe
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\obj\Release\Restart Servises and Disk.pdb
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\Restart Servises and Disk.exe
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\Restart Servises and Disk.pdb
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\AutoUpdater.NET.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.BonusSkins.v18.2.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.Data.v18.2.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.Utils.v18.2.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.XtraBars.v18.2.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.XtraEditors.v18.2.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\AutoUpdater.NET.pdb
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\AutoUpdater.NET.xml
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.Data.v18.2.xml
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.Utils.v18.2.xml
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.XtraBars.v18.2.xml
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\bin\Release\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\obj\Release\Restart_Servises_and_Disk.Form1.resources
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\obj\Release\Restart_Servises_and_Disk.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\obj\Release\Restart Servises and Disk.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\Restart-Service-and-Disk\C#\Restart Servises and Disk\obj\Release\Restart Servises and Disk.csprojResolveAssemblyReference.cache

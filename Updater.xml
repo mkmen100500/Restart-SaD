@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.4.0.0</version>
+    <url>https://github.com/mkmen100500/Restart-Service-and-Disk/blob/master/Update/exe.zip</url>
+    <changelog>https://github.com/mkmen100500/Restart-Service-and-Disk/blob/master/changelog</changelog>
+    <mandatory>false</mandatory>
+    <checksum algorithm="MD5">Update file Checksum</checksum>
+</item>
