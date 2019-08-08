@@ -256,7 +256,7 @@ namespace Restart_Servises_and_Disk
                     {
                         dialogResult =
                             MessageBox.Show(
-                                $@"There is new version {args.CurrentVersion} available. You are using version {args.InstalledVersion}. This is required update. Press Ok to begin updating the application.", @"Update Available",
+                                $@"Новая версия {args.CurrentVersion} доступна. Вы используете старую версию {args.InstalledVersion}. Рекомендуется обновить программу. Нажмите ОК для начала обновления.", @"Доступна новая версия!",
                                 MessageBoxButtons.OK,
                                 MessageBoxIcon.Information);
                     }
@@ -264,12 +264,11 @@ namespace Restart_Servises_and_Disk
                     {
                         dialogResult =
                             MessageBox.Show(
-                                $@"There is new version {args.CurrentVersion} available. You are using version {
-                                        args.InstalledVersion
-                                    }. Do you want to update the application now?", @"Update Available",
+                                $@"Новая версия {args.CurrentVersion} доступна. Вы используете версию программы {args.InstalledVersion}, которая устарела. Вы хотите обновить сейчас?", @"Доступная новая версия!",
                                 MessageBoxButtons.YesNo,
                                 MessageBoxIcon.Information);
                     }
+                    
 
                     // Uncomment the following line if you want to show standard update dialog instead.
                     //AutoUpdater.ShowUpdateForm();
@@ -292,15 +291,15 @@ namespace Restart_Servises_and_Disk
                 }
                 else
                 {
-                    MessageBox.Show(@"There is no update available please try again later.", @"No update available",
+                    MessageBox.Show(@"Вы используете самую последнюю версию, поздравляем!.", @"Нет доступных обновлений",
                         MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
             else
             {
                 MessageBox.Show(
-                        @"There is a problem reaching update server please check your internet connection and try again later.",
-                        @"Update check failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        @"Возникли проблемы при обновлении, проверьте свое интернет подключение или свяжитесь с разработчиком!.",
+                        @"Ошибка при проверке обновлений!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }

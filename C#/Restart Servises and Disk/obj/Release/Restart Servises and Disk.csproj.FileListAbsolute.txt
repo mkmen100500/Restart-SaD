@@ -161,3 +161,4 @@ C:\Users\Admin\Documents\GitHub\Restart-SaD\C#\Restart Servises and Disk\bin\Rel
 C:\Users\Admin\Documents\GitHub\Restart-SaD\C#\Restart Servises and Disk\obj\Release\Restart_Servises_and_Disk.Form1.resources
 C:\Users\Admin\Documents\GitHub\Restart-SaD\C#\Restart Servises and Disk\obj\Release\Restart_Servises_and_Disk.Properties.Resources.resources
 C:\Users\Admin\Documents\GitHub\Restart-SaD\C#\Restart Servises and Disk\obj\Release\Restart Servises and Disk.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\Restart-SaD\C#\Restart Servises and Disk\obj\Release\Restart Servises and Disk.csprojResolveAssemblyReference.cache
