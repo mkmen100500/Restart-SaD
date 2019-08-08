@@ -55,6 +55,7 @@
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.открытьToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.выходToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.checkUpd = new DevExpress.XtraBars.BarButtonItem();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -70,9 +71,10 @@
             this.barManager1.Form = this;
             this.barManager1.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
             this.menu,
-            this.MenuExit});
+            this.MenuExit,
+            this.checkUpd});
             this.barManager1.MainMenu = this.bar1;
-            this.barManager1.MaxItemId = 2;
+            this.barManager1.MaxItemId = 3;
             // 
             // bar1
             // 
@@ -92,7 +94,8 @@
             this.menu.Caption = "Меню";
             this.menu.Id = 0;
             this.menu.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
-            new DevExpress.XtraBars.LinkPersistInfo(this.MenuExit)});
+            new DevExpress.XtraBars.LinkPersistInfo(this.MenuExit),
+            new DevExpress.XtraBars.LinkPersistInfo(this.checkUpd)});
             this.menu.Name = "menu";
             // 
             // MenuExit
@@ -270,6 +273,13 @@
             this.выходToolStripMenuItem.Text = "Выход";
             this.выходToolStripMenuItem.Click += new System.EventHandler(this.выходToolStripMenuItem_Click);
             // 
+            // checkUpd
+            // 
+            this.checkUpd.Caption = "Проверить на наличие \r\nобновлений";
+            this.checkUpd.Id = 2;
+            this.checkUpd.Name = "checkUpd";
+            this.checkUpd.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.checkUpd_ItemClick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -332,6 +342,7 @@
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.ToolStripMenuItem выходToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem открытьToolStripMenuItem;
+        private DevExpress.XtraBars.BarButtonItem checkUpd;
     }
 }
 

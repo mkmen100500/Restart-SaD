@@ -18,6 +18,7 @@ namespace Restart_Servises_and_Disk
         public Form1()
         {
             InitializeComponent();
+            AutoUpdater.CheckForUpdateEvent += AutoUpdaterOnCheckForUpdateEvent;
 
             // делаем невидимой нашу иконку в трее
             notifyIcon1.Visible = false;
@@ -234,6 +235,72 @@ namespace Restart_Servises_and_Disk
                     e.Cancel = true;
                 else
                     e.Cancel = false;
+            }
+        }
+
+        private void checkUpd_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            AutoUpdater.Start("https://raw.githubusercontent.com/mkmen100500/Restart-SaD/master/Updater.xml");
+        }
+
+        
+
+        private void AutoUpdaterOnCheckForUpdateEvent(UpdateInfoEventArgs args)
+        {
+            if (args != null)
+            {
+                if (args.IsUpdateAvailable)
+                {
+                    DialogResult dialogResult;
+                    if (args.Mandatory)
+                    {
+                        dialogResult =
+                            MessageBox.Show(
+                                $@"There is new version {args.CurrentVersion} available. You are using version {args.InstalledVersion}. This is required update. Press Ok to begin updating the application.", @"Update Available",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Information);
+                    }
+                    else
+                    {
+                        dialogResult =
+                            MessageBox.Show(
+                                $@"There is new version {args.CurrentVersion} available. You are using version {
+                                        args.InstalledVersion
+                                    }. Do you want to update the application now?", @"Update Available",
+                                MessageBoxButtons.YesNo,
+                                MessageBoxIcon.Information);
+                    }
+
+                    // Uncomment the following line if you want to show standard update dialog instead.
+                    //AutoUpdater.ShowUpdateForm();
+
+                    if (dialogResult.Equals(DialogResult.Yes) || dialogResult.Equals(DialogResult.OK))
+                    {
+                        try
+                        {
+                            if (AutoUpdater.DownloadUpdate())
+                            {
+                                Application.Exit();
+                            }
+                        }
+                        catch (Exception exception)
+                        {
+                            MessageBox.Show(exception.Message, exception.GetType().ToString(), MessageBoxButtons.OK,
+                                MessageBoxIcon.Error);
+                        }
+                    }
+                }
+                else
+                {
+                    MessageBox.Show(@"There is no update available please try again later.", @"No update available",
+                        MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+            else
+            {
+                MessageBox.Show(
+                        @"There is a problem reaching update server please check your internet connection and try again later.",
+                        @"Update check failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }
